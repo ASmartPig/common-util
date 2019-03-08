@@ -1,0 +1,7 @@
+/target/
+/modellog/
+/.settings/
+/.classpath
+/.project
+.idea
+*.iml
